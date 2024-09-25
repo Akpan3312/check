@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Check</string>
+    <string name="head_with_plant">Head with plant</string>
+    <string name="reflect_on_your_feeling">Reflect on your feeling</string>
+    <string name="session_check_in">Session Check-In</string>
+    <string name="take_a_few_moment_and_answer_a_few_questions_before_moving_to_the_next_exercise">Take a few moment and answer a few questions before moving to the next exercise</string>
+    <string name="later">Later</string>
+    <string name="note_that_you_won_t_be_able_to_proceed_to_the_next_touch_session_unless_you_complete_the_checkin">Note that you won\'t be able to proceed to the next touch session unless you complete the checkin</string>
+</resources>
